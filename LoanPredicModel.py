@@ -2,7 +2,7 @@
 """
 Created on Sat Oct  2 13:08:10 2021
 
-@author: Deepak Baghel
+@author: AV
 """
 
 from sklearn.linear_model import LogisticRegression
